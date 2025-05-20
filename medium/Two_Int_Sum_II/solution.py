@@ -9,7 +9,6 @@ therefore you may not use the same element twice. There will always be exactly o
 Your solution must use O(1) additional space.
 
 """
-
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         l = 0
